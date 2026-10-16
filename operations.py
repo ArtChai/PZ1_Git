@@ -5,3 +5,5 @@ def calculate(a, b, operation):
         return a - b
     if operation == "*":
         return a * b
+
+# Изменение main для rebase
