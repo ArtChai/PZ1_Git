@@ -7,3 +7,4 @@ def calculate(a, b, operation):
         return a * b
 
 # Изменение main для rebase
+# Изменение в dev1
