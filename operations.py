@@ -1,3 +1,5 @@
+# Изменение файла в dev3
+
 def calculate(a, b, operation):
     if operation == "+":
         return a + b
